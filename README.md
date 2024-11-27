@@ -11,6 +11,9 @@
 - Email: kalavathisaud4@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/kalavathisaud/
 -  🌟 Featured Projects:
+-  Wine quality : https://github.com/Kalavathii/winequality 
+-  Basic Chatbot : https://github.com/Kalavathii/chatbot.git
+- AI-Driven Predictive Maintenance for Wind Turbines in Renewable Energy : https://github.com/Kalavathii/AI-Driven-predictive-maintainenace-for-wind-Turbines.git
   
 
 I'm always open to collaborating on open-source projects! Let’s connect! 🤝
