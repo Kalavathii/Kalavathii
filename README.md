@@ -8,6 +8,6 @@
 - 📫 How to reach me
 - Email: kalavathisaud4@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/kalavathisaud/ 
-I'm always open to collaborating on open-source projects! Let’s connect! 🤝
+  I'm always open to collaborating on open-source projects! Let’s connect! 🤝
 
 
