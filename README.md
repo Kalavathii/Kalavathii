@@ -9,7 +9,9 @@
    Machine Learning: Starting with basic machine learning concepts using scikit-learn
 - 📫 How to reach me
 - Email: kalavathisaud4@gmail.com
--  LinkedIn: https://www.linkedin.com/in/kalavathisaud/ 
+-  LinkedIn: https://www.linkedin.com/in/kalavathisaud/
+-  🌟 Featured Projects:
+  
 
 I'm always open to collaborating on open-source projects! Let’s connect! 🤝
 
